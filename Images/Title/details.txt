@@ -1,0 +1,6 @@
+English:
+ Create:Gimp2.8
+ Supplement:This image was created by myself.
+Japanese:
+ 作成:Gimp2.8
+ 補足:この画像は自分で作成したものです。

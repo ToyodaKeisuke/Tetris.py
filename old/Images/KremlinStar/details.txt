@@ -1,0 +1,12 @@
+English:
+ Original image: https://commons.wikimedia.org/wiki/File:Kremlin_star.jpg
+ Author: Xepec
+ Permission: public domain
+ Supplement: This image is from Wikipedia.
+ PxcelArt: https://app.monopro.org/pixel/
+Japanese:
+ 元画像: https://commons.wikimedia.org/wiki/File:Kremlin_star.jpg
+ 著者: Xepec
+ 著作権: パブリックドメイン
+ 補足: この画像はWikipediaの物です。
+ ドット絵: https://app.monopro.org/pixel/
